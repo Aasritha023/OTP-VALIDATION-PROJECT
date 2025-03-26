@@ -36,7 +36,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/otp-validation.git
+https://github.com/Aasritha023/OTP-VALIDATION-PROJECT/edit/main/README.md
 Navigate to the project folder:
 
 bash
